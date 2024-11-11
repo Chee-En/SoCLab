@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第1頁" id="5m8-UNzSnJfzA-Qlas2P">
-    <mxGraphModel dx="2327" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,7 +146,7 @@
         <mxCell id="-vYF7-pKDmQvCFjkX6Aw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="370" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vYF7-pKDmQvCFjkX6Aw-3" value="idle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-vYF7-pKDmQvCFjkX6Aw-3" value="idle" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-vYF7-pKDmQvCFjkX6Aw-4" value="r_play" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
